@@ -1,5 +1,5 @@
 ### Hi there 👋
-This my profile.
+This is my profile.
 I'm currently learning Java.
 
 <!--
